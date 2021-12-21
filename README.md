@@ -1,3 +1,11 @@
+# !PLA #
+!PLA is a modified fork of the Play! PS2 emulator with extended features, including, but not limited to:
+
+- Rewritten Mobile UI
+- RAM Dumping/Savestates
+
+See the documentation below for more info on Play!
+
 # Play! #
 Play! is a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
 
